@@ -1,0 +1,27 @@
+{
+  "name": "beerlogs",
+  "version": "1.0.0",
+  "description": "Beer recipe creation and blogging",
+  "main": "beerlogs.js",
+  "scripts": {
+    "test": "tap test/*spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddself/beerlogs.git"
+  },
+  "keywords": [
+    "beer",
+    "brewing",
+    "recipe"
+  ],
+  "author": "Todd Kennedy <todd@selfassembled.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/toddself/beerlogs/issues"
+  },
+  "homepage": "https://github.com/toddself/beerlogs#readme",
+  "dependencies": {
+    "convert-units": "~0.1.1"
+  }
+}

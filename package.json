@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/toddself/beerlogs#readme",
   "dependencies": {
-    "convert-units": "~0.1.1"
+    "convert-units": "~0.1.1",
+    "pouchdb": "~4.0.1"
   }
 }
